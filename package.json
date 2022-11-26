@@ -1,0 +1,11 @@
+{
+  "name": "hello_world",
+  "version": "1.0.0",
+  "description": "hello_world with node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "none"
+  },
+  "author": "Tarun Narahari",
+  "license": "ISC"
+}
